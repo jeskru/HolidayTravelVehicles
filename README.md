@@ -1,1 +1,2 @@
 # HolidayTravelVehicles
+class Vehicle;
