@@ -4,5 +4,5 @@ public class NewVehicle {
     String model;
     int year;
   String manufacturer;
-    String baseCost;
+    int baseCost;
 }
